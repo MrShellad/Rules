@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gamemale.com",
+        "kemono.cr",
+        "civitai.com",
+        "e-hentai.org",
+        "e621.net"
+      ]
+    }
+  ]
+}
