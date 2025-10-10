@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "r2.cloudflarestorage.com"
+        "r2.cloudflarestorage.com",
+        "vme50.de",
+        "89757.de"
       ]
     }
   ]
